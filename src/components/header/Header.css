@@ -1,4 +1,10 @@
 .header {
     grid-area: h;
     background-color: chartreuse;
+    padding: 10px;
+}
+
+.logo {
+    display: block;
+    height: 40px;
 }
